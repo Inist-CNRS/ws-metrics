@@ -11,6 +11,6 @@ Il comprend 532 affiliations, après un pré-traitement excluant :
 
 
 ## Résultats
-Le web service possède une préicsion de 95.21%, un rappel de 89.78% et une f-mesure de 92.43%.
+Le web service possède une préicsion de 95.42%, un rappel de 89.80% et une f-mesure de 92.53%.
 (Voir fiche concernant la f-mesure)
 
