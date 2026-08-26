@@ -10,6 +10,7 @@ def ws_affiliation(affiliation):
     response.raise_for_status()
     return response.json()
 
+NOT_FOUND = {"Error from ROR API", "No data found", "No items found or empty list","No city found", "No match found","No house found"}
 
 def get_ws_result(affiliation):
     """
@@ -20,9 +21,10 @@ def get_ws_result(affiliation):
         result = ws_affiliation(affiliation)
         value = result[0]["value"]
         status = value.get("status", "")
-        id_ror = value.get("id_ror", "")
+        information_ror = value.get("information_ror", {}) or {}
+        id_ror = information_ror.get("id_ror", "")
 
-        if status in {"no match found", "no city found"} or not id_ror:
+        if status in NOT_FOUND or not id_ror:
             return status
         return id_ror
     except Exception as e:
@@ -37,7 +39,7 @@ def check_result(ws_result, label):
     - True si ws_result == label
     - False si ws_result != label
     """
-    if ws_result in {"no match found", "no city found"}:
+    if ws_result in NOT_FOUND:
         return "non trouvé"
     return ws_result == label
 
