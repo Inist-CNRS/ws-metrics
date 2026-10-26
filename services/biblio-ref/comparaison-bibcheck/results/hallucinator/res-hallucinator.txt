@@ -1,0 +1,34 @@
+Tool : Hallucinator
+
+
+
+TOUTES LES RÉFÉRENCES
+Accuracy par classe:
+----------------------------------------
+found               : 69.8% (97/139)
+retracted           : 3.3% (3/92)
+to_be_verified      : 2.1% (2/97)
+----------------------------------------
+Accuracy globale : 31.1% (102/328)
+
+
+
+AVEC DOI UNIQUEMENT
+Accuracy par classe:
+----------------------------------------
+found               : 88.7% (55/62)
+retracted           : 1.5% (1/68)
+to_be_verified      : 0.0% (0/40)
+----------------------------------------
+Accuracy globale : 32.9% (56/170)
+
+
+
+SANS DOI UNIQUEMENT
+Accuracy par classe:
+----------------------------------------
+found               : 54.5% (42/77)
+retracted           : 8.3% (2/24)
+to_be_verified      : 3.5% (2/57)
+----------------------------------------
+Accuracy globale : 29.1% (46/158)

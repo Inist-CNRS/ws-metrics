@@ -1,0 +1,393 @@
+[  1/393] Smith2021                                ❌ no match
+[  2/393] ref004                                   ⚠️  no match
+[  3/393] ref005                                   ⚠️  no match
+[  4/393] Issa2018                                 ❌ no match
+[  5/393] Tay2021                                  ❌ no match
+[  6/393] Wang2021                                 ❌ no match
+[  7/393] Yu2014                                   ❌ no match
+[  8/393] Aichberger2025                           ❌ no match
+[  9/393] Glushkova2021                            ❌ no match
+[ 10/393] Wang2022                                 ❌ no match
+[ 11/393] Jain2021                                 ❌ no match
+[ 12/393] Kadavath2022                             ❌ no match
+[ 13/393] Sprague2023                              ⚠️  openalex
+[ 14/393] Doe2024                                  ❌ arxiv
+[ 15/393] Paolone2020                              ❌ no match
+[ 16/393] Lee2022                                  ❌ no match
+[ 17/393] Han2020                                  ❌ no match
+[ 18/393] Gupta2021                                ❌ no match
+[ 19/393] Ramalho2023                              ❌ arxiv
+[ 20/393] P2015                                    ❌ no match
+[ 21/393] Ding2022                                 ❌ no match
+[ 22/393] AcevedoViloria2021                       ❌ no match
+[ 23/393] Zolghadr2024                             ❌ no match
+[ 24/393] Kerbl2022                                ❌ no match
+[ 25/393] Uher2014                                 ❌ no match
+[ 26/393] Gao2024                                  ❌ no match
+[ 27/393] JPA2021                                  ❌ crossref
+[ 28/393] ref028                                   ⚠️  no match
+[ 29/393] Honnibal2020                             ❌ no match
+[ 30/393] Kenton2020                               ❌ no match
+[ 31/393] Muller2020                               ❌ no match
+[ 32/393] Li2021                                   ❌ no match
+[ 33/393] Liu2020                                  ❌ no match
+[ 34/393] Stenetorp2020                            ❌ no match
+[ 35/393] Tuan2021                                 ❌ no match
+[ 36/393] Weiss2021                                ❌ no match
+[ 37/393] Xie2020                                  ❌ no match
+[ 38/393] Yu2021                                   ❌ no match
+[ 39/393] Zhang2021                                ❌ no match
+[ 40/393] Zhou2021                                 ❌ no match
+[ 41/393] Cassen2009                               ❌ no match
+[ 42/393] Hoskin2001                               ❌ no match
+[ 43/393] Ruggles1999                              ❌ no match
+[ 44/393] Tilley1994                               ❌ no match
+[ 45/393] Boardman1975                             ❌ no match
+[ 46/393] Meiggs1972                               ❌ no match
+[ 47/393] Betti2016                                ❌ no match
+[ 48/393] ref048                                   ⚠️  no match
+[ 49/393] ref049                                   ⚠️  no match
+[ 50/393] Hague2021                                ❌ no match
+[ 51/393] ref051                                   ⚠️  no match
+[ 52/393] Marrone2013                              ❌ no match
+[ 53/393] Schmidt2015                              ❌ no match
+[ 54/393] Smith2017                                ❌ no match
+[ 55/393] Blumenfeld2015                           ❌ no match
+[ 56/393] Smith2024                                ❌ no match
+[ 57/393] ref057                                   ❌ crossref
+[ 58/393] ref058                                   ❌ crossref
+[ 59/393] Cabanac2021                              ❌ no match
+[ 60/393] DL2023                                   ❌ crossref
+[ 61/393] ref062                                   ❌ no match
+[ 62/393] I2019                                    ❌ no match
+[ 63/393] Allison2012                              ❌ no match
+[ 64/393] Bender2000                               ❌ no match
+[ 65/393] Chen2003                                 ❌ no match
+[ 66/393] Patton1993                               ❌ crossref
+[ 67/393] Renfrew1981                              ❌ crossref
+[ 68/393] Hurwit2005                               ❌ crossref
+[ 69/393] ref070                                   ❌ crossref
+[ 70/393] Kleinbaum2010                            ❌ crossref
+[ 71/393] ref072                                   ⚠️  no match
+[ 72/393] ref073                                   ⚠️  no match
+[ 73/393] Tilton2016                               ❌ crossref
+[ 74/393] ref075                                   ⚠️  no match
+[ 75/393] ref060                                   ❌ crossref
+[ 76/393] S2013                                    ❌ crossref
+[ 77/393] ref077                                   ❌ crossref
+[ 78/393] H2010                                    ❌ crossref
+[ 79/393] JY2010                                   ❌ crossref
+[ 80/393] AD2009                                   ❌ crossref
+[ 81/393] Aguirre2004                              ❌ no match
+[ 82/393] Benton2015                               ❌ no match
+[ 83/393] ref083                                   ❌ crossref
+[ 84/393] Doolittle1999                            ❌ crossref
+[ 85/393] Eldredge1980                             ❌ no match
+[ 86/393] Endler1986                               ❌ crossref
+[ 87/393] Gould2002                                ❌ crossref
+[ 88/393] Grant2008                                ❌ no match
+[ 89/393] Fleming2017                              ❌ no match
+[ 90/393] Gauthier1986                             ❌ no match
+[ 91/393] ref091                                   ❌ no match
+[ 92/393] Kimura1983                               ❌ no match
+[ 93/393] King1975                                 ❌ crossref
+[ 94/393] Kettlewell1955                           ❌ crossref
+[ 95/393] Leakey1982                               ❌ crossref
+[ 96/393] Nei1987                                  ❌ no match
+[ 97/393] Zuckerkandl1965                          ❌ no match
+[ 98/393] Kowsigan2021                             ❌ no match
+[ 99/393] ref099                                   ⚠️  no match
+[100/393] MGZ2021                                  ❌ no match
+[101/393] ref104                                   ⚠️  crossref
+[102/393] A2024                                    ❌ no match
+[103/393] ref106                                   ⚠️  no match
+[104/393] Gay2019                                  ⚠️  crossref, s2
+[105/393] J2022                                    ❌ no match
+[106/393] RS2014                                   ❌ crossref
+[107/393] J2017                                    ❌ no match
+[108/393] Y2022                                    ❌ crossref
+[109/393] M2022                                    ❌ crossref
+[110/393] R2022                                    ❌ no match
+[111/393] Y2021                                    ❌ crossref
+[112/393] Y2020                                    ❌ crossref
+[113/393] R2021                                    ❌ crossref
+[114/393] G2022                                    ❌ no match
+[115/393] X2021                                    ❌ crossref
+[116/393] R2022b                                   ❌ crossref
+[117/393] H2022                                    ❌ crossref
+[118/393] Y2022b                                   ❌ crossref
+[119/393] N2022                                    ❌ crossref
+[120/393] X2022                                    ❌ crossref
+[121/393] Y2018                                    ❌ no match
+[122/393] S2022                                    ❌ crossref
+[123/393] MH2022                                   ❌ crossref
+[124/393] X2016                                    ❌ no match
+[125/393] M2022b                                   ❌ crossref
+[126/393] Y2022c                                   ❌ crossref
+[127/393] M2022c                                   ❌ crossref
+[128/393] Y2021b                                   ❌ crossref
+[129/393] C2021                                    ❌ crossref
+[130/393] D2023                                    ❌ crossref
+[131/393] Y2021c                                   ❌ crossref
+[132/393] K2022                                    ❌ crossref
+[133/393] MA2012                                   ❌ crossref
+[134/393] J2015                                    ❌ crossref
+[135/393] T2014                                    ❌ no match
+[136/393] F2022                                    ❌ crossref
+[137/393] P2014                                    ❌ no match
+[138/393] G2022b                                   ❌ crossref
+[139/393] Q2021                                    ❌ crossref
+[140/393] ref126                                   ❌ no match
+[141/393] Zhao2024                                 ✅ crossref, s2
+[142/393] ref142                                   ⚠️  crossref
+[143/393] MA2004                                   ❌ crossref
+[144/393] Q2022                                    ❌ no match
+[145/393] B2017                                    ❌ crossref
+[146/393] ref147                                   ⚠️  crossref
+[147/393] ref148                                   ⚠️  no match
+[148/393] AA2016                                   ❌ no match
+[149/393] ref150                                   ⚠️  no match
+[150/393] YP2012                                   ❌ crossref
+[151/393] W2020                                    ❌ crossref
+[152/393] A2018                                    ❌ crossref
+[153/393] W2021                                    ❌ crossref
+[154/393] ref156                                   ⚠️  crossref
+[155/393] B2022                                    ⚠️  crossref
+[156/393] J2015b                                   ❌ no match
+[157/393] AK2020                                   ❌ crossref
+[158/393] JM2024                                   ❌ crossref
+[159/393] ref160                                   ⚠️  crossref
+[160/393] ref162                                   ⚠️  no match
+[161/393] S2022c                                   ❌ no match
+[162/393] ref163                                   ⚠️  crossref
+[163/393] ref164                                   ⚠️  crossref
+[164/393] ref165                                   ⚠️  crossref
+[165/393] ref166                                   ⚠️  no match
+[166/393] ref167                                   ⚠️  no match
+[167/393] ref168                                   ⚠️  no match
+[168/393] PJ2005                                   ❌ no match
+[169/393] S2022b                                   ❌ no match
+[170/393] Stewart2003                              ❌ no match
+[171/393] V1991                                    ❌ no match
+[172/393] ref174                                   ⚠️  no match
+[173/393] Gazibegovic2017                          ❌ no match
+[174/393] Gupta2006                                ❌ no match
+[175/393] Beisel2002                               ❌ no match
+[176/393] TZ2010                                   ❌ no match
+[177/393] D2003                                    ❌ no match
+[178/393] C2004                                    ❌ no match
+[179/393] P2007                                    ❌ no match
+[180/393] Jiao1993                                 ❌ no match
+[181/393] ref169                                   ⚠️  no match
+[182/393] Watanabe2001                             ❌ no match
+[183/393] ref184                                   ⚠️  no match
+[184/393] JA2003                                   ❌ no match
+[185/393] Suzawa2003                               ❌ no match
+[186/393] Weng2020                                 ❌ no match
+[187/393] ref187                                   ⚠️  no match
+[188/393] KE2008                                   ❌ no match
+[189/393] ref189                                   ⚠️  no match
+[190/393] Abdallah2025                             ❌ no match
+[191/393] Ahaggach2025                             ❌ no match
+[192/393] Amoury2025                               ❌ no match
+[193/393] Amri2025                                 ❌ no match
+[194/393] Arbaoui2025                              ❌ no match
+[195/393] Atmani2025                               ❌ no match
+[196/393] Attali2025                               ❌ no match
+[197/393] Audemard2025                             ❌ no match
+[198/393] Ayadi2025                                ❌ no match
+[199/393] Bakhtyar2025                             ❌ no match
+[200/393] Baki2025                                 ❌ no match
+[201/393] Bekkoucha2025                            ❌ no match
+[202/393] Bellart2025                              ❌ no match
+[203/393] Boscher2025                              ❌ no match
+[204/393] Boudec2025                               ❌ no match
+[205/393] Boulle2025                               ❌ no match
+[206/393] ref206                                   ⚠️  no match
+[207/393] ref207                                   ⚠️  no match
+[208/393] Boutikar2025                             ❌ no match
+[209/393] Braye2025                                ❌ no match
+[210/393] Bruneau2025                              ❌ no match
+[211/393] Chabrier2025                             ❌ no match
+[212/393] ChaeibChakchouk2025                      ❌ no match
+[213/393] Chibane2025                              ❌ no match
+[214/393] Comiti2025                               ❌ no match
+[215/393] Corbeau2025                              ❌ no match
+[216/393] Boissin2025                              ❌ arxiv
+[217/393] Baaj2024                                 ❌ no match
+[218/393] Bethune2024                              ❌ no match
+[219/393] Bolte2023                                ❌ no match
+[220/393] Bethune2023                              ❌ no match
+[221/393] Serrurier2023                            ❌ no match
+[222/393] Bethune2023b                             ⚠️  arxiv
+[223/393] Bethune2022                              ❌ no match
+[224/393] Bethune2023c                             ⚠️  arxiv
+[225/393] Radford2021                              ❌ no match
+[226/393] ref229                                   ⚠️  no match
+[227/393] Bakkay2022                               ⚠️  arxiv
+[228/393] Bennis2021                               ❌ no match
+[229/393] Sanchez2020                              ❌ no match
+[230/393] Serrurier2022                            ❌ arxiv
+[231/393] Bennis2020                               ❌ no match
+[232/393] Sanchez2020b                             ❌ no match
+[233/393] Massena2025                              ❌ no match
+[234/393] ref236                                   ⚠️  no match
+[235/393] Daull2025                                ❌ no match
+[236/393] Richard2020                              ✅ arxiv
+[237/393] Dini2025                                 ❌ no match
+[238/393] Dione2025                                ❌ no match
+[239/393] Diop2025                                 ❌ no match
+[240/393] Bolte2020                                ⚠️  arxiv
+[241/393] ref242                                   ⚠️  no match
+[242/393] Facci2025                                ❌ no match
+[243/393] Akoka2024                                ❌ no match
+[244/393] AlvarezValera2024                        ❌ no match
+[245/393] BenelhajSghaier2024                      ❌ no match
+[246/393] Bethune2021                              ❌ no match
+[247/393] Bimonte2024                              ❌ no match
+[248/393] Chambon2024                              ❌ no match
+[249/393] ref249                                   ⚠️  no match
+[250/393] ref250                                   ⚠️  no match
+[251/393] Degrace2024                              ❌ no match
+[252/393] ref252                                   ⚠️  no match
+[253/393] Guyot2024                                ❌ no match
+[254/393] ref254                                   ⚠️  no match
+[255/393] ref255                                   ⚠️  no match
+[256/393] ref256                                   ⚠️  no match
+[257/393] Lassig1995                               ⚠️  crossref
+[258/393] ref258                                   ⚠️  no match
+[259/393] ref259                                   ⚠️  no match
+[260/393] ref260                                   ⚠️  no match
+[261/393] K2020                                    ❌ crossref
+[262/393] D2024                                    ❌ crossref
+[263/393] ref263                                   ⚠️  no match
+[264/393] Lassig1995b                              ⚠️  crossref
+[265/393] ref265                                   ⚠️  no match
+[266/393] ref266                                   ⚠️  no match
+[267/393] ref267                                   ⚠️  no match
+[268/393] K2020b                                   ❌ crossref
+[269/393] D2024b                                   ❌ crossref
+[270/393] ref270                                   ⚠️  no match
+[271/393] ref271                                   ⚠️  crossref
+[272/393] ref272                                   ⚠️  no match
+[273/393] ref273                                   ⚠️  no match
+[274/393] ref276                                   ❌ no match
+[275/393] Gao2026                                  ⚠️  crossref
+[276/393] ref278                                   ⚠️  no match
+[277/393] ref279                                   ⚠️  no match
+[278/393] Peng2017                                 ❌ no match
+[279/393] KRANTZ2004                               ❌ no match
+[280/393] Jaffe2005                                ❌ no match
+[281/393] ref283                                   ❌ crossref
+[282/393] Mitsui2024                               ❌ no match
+[283/393] Huang2004                                ❌ no match
+[284/393] Gsanger2010                              ❌ no match
+[285/393] ref274                                   ⚠️  no match
+[286/393] Xiao2012                                 ❌ no match
+[287/393] Walters2023                              ⚠️  crossref
+[288/393] ref275                                   ⚠️  no match
+[289/393] Hunter1990                               ❌ crossref
+[290/393] Hart1900                                 ✅ crossref
+[291/393] Thiault2019                              ✅ crossref
+[292/393] ref292                                   ⚠️  crossref
+[293/393] Cuxac2006                                ⚠️  crossref
+[294/393] Collignon2017                            ✅ crossref
+[295/393] Cuxac2013                                ✅ crossref
+[296/393] Ariel1988                                ⚠️  crossref
+[297/393] Benveniste1970                           ✅ crossref
+[298/393] Motulsky2006                             ✅ crossref
+[299/393] ref299                                   ❌ crossref
+[300/393] ref300                                   ❌ crossref
+[301/393] Honing2018                               ⚠️  crossref
+[302/393] Folstein1975                             ❌ crossref
+[303/393] Baudoin2019                              ⚠️  crossref
+[304/393] Tanter2001                               ⚠️  crossref
+[305/393] ref305                                   ⚠️  crossref
+[306/393] ref306                                   ⚠️  crossref
+[307/393] Agarwal2012                              ⚠️  crossref
+[308/393] ref308                                   ⚠️  crossref
+[309/393] ref309                                   ⚠️  crossref
+[310/393] Benbi2018                                ⚠️  crossref
+[311/393] ref311                                   ⚠️  crossref
+[312/393] Erenstein2010                            ❌ crossref
+[313/393] Erenstein2011                            ⚠️  crossref
+[314/393] Erenstein2008                            ⚠️  crossref
+[315/393] Erenstein2011b                           ⚠️  crossref
+[316/393] ref316                                   ⚠️  crossref
+[317/393] Gupta2007                                ⚠️  crossref
+[318/393] ref318                                   ⚠️  crossref
+[319/393] JonesGarcia2021                          ⚠️  crossref
+[320/393] Jose2021                                 ⚠️  crossref
+[321/393] Kassam2014                               ⚠️  crossref
+[322/393] Keil2015                                 ⚠️  crossref
+[323/393] Keil2016                                 ⚠️  crossref
+[324/393] ref324                                   ⚠️  crossref
+[325/393] Keil2020                                 ⚠️  crossref
+[326/393] Krishna2019                              ⚠️  crossref
+[327/393] Kuhn2008                                 ⚠️  crossref
+[328/393] Kumar2016                                ⚠️  crossref
+[329/393] Barberi2020                              ❌ crossref
+[330/393] Bates2015                                ⚠️  crossref
+[331/393] ref331                                   ⚠️  crossref
+[332/393] Bohme2010                                ⚠️  crossref
+[333/393] ref333                                   ⚠️  crossref
+[334/393] ref334                                   ⚠️  crossref
+[335/393] ref335                                   ❌ crossref
+[336/393] Gupta2012                                ⚠️  crossref
+[337/393] Horn2001                                 ⚠️  crossref
+[338/393] Granum2000                               ❌ no match
+[339/393] Gaffney2013                              ⚠️  crossref
+[340/393] ref340                                   ⚠️  no match
+[341/393] Lyons1977                                ❌ no match
+[342/393] Casey2007                                ❌ no match
+[343/393] ref343                                   ⚠️  no match
+[344/393] Bhargava2017                             ❌ no match
+[345/393] ref345                                   ⚠️  no match
+[346/393] ref346                                   ⚠️  no match
+[347/393] ref347                                   ⚠️  no match
+[348/393] Li2018                                   ❌ no match
+[349/393] Lundberg2017                             ❌ no match
+[350/393] ref350                                   ⚠️  no match
+[351/393] ref351                                   ⚠️  no match
+[352/393] Klimek2015                               ❌ no match
+[353/393] Tilton2016b                              ❌ no match
+[354/393] ref354                                   ⚠️  no match
+[355/393] Gillespie2019                            ❌ no match
+[356/393] Plutynski2021                            ❌ no match
+[357/393] ref357                                   ⚠️  no match
+[358/393] ref358                                   ⚠️  no match
+[359/393] ref359                                   ⚠️  no match
+[360/393] Benton1997                               ❌ no match
+[361/393] Apotheloz2003                            ❌ no match
+[362/393] Tsuchiya2016                             ❌ no match
+[363/393] Dunbar2012                               ❌ no match
+[364/393] Cox2016                                  ❌ no match
+[365/393] Levinson2013                             ❌ no match
+[366/393] Cuddy2015                                ❌ no match
+[367/393] Alston1995                               ❌ no match
+[368/393] ref368                                   ⚠️  no match
+[369/393] Farooq2015                               ❌ no match
+[370/393] Abdollahi2018                            ❌ no match
+[371/393] Bauer2024                                ❌ no match
+[372/393] Eslami2019                               ❌ no match
+[373/393] Guo2023                                  ❌ no match
+[374/393] Hayati2020                               ❌ no match
+[375/393] Hendrawan2024                            ❌ no match
+[376/393] ref376                                   ⚠️  no match
+[377/393] Lubos2024                                ❌ no match
+[378/393] Park2023                                 ❌ no match
+[379/393] ref379                                   ⚠️  no match
+[380/393] Silva2024                                ❌ no match
+[381/393] Tintarev2022                             ❌ no match
+[382/393] Babenko2014                              ❌ no match
+[383/393] Behrman2012                              ❌ no match
+[384/393] Bellofatto2018                           ❌ no match
+[385/393] Benabou2003                              ❌ no match
+[386/393] Blasi2018                                ❌ no match
+[387/393] Bowles2012                               ❌ no match
+[388/393] Cohen2009                                ❌ no match
+[389/393] Bryson2019                               ❌ no match
+[390/393] Falk2018                                 ❌ no match
+[391/393] Gneezy2011                               ❌ no match
+[392/393] Hermann2019                              ❌ no match
+[393/393] Peterson2023                             ❌ no match
