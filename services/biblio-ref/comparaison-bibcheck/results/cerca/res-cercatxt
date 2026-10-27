@@ -1,0 +1,31 @@
+Tool : cerca
+
+
+
+TOUTES LES RÉFÉRENCES
+Accuracy par classe:
+----------------------------------------
+found               : 26.6% (37/139)
+to_be_verified      : 5.2% (5/97)
+----------------------------------------
+Accuracy globale : 17.8% (42/236)
+
+
+
+AVEC DOI UNIQUEMENT
+Accuracy par classe:
+----------------------------------------
+found               : 32.3% (20/62)
+to_be_verified      : 10.0% (4/40)
+----------------------------------------
+Accuracy globale : 23.5% (24/102)
+
+
+
+SANS DOI UNIQUEMENT
+Accuracy par classe:
+----------------------------------------
+found               : 22.1% (17/77)
+to_be_verified      : 1.8% (1/57)
+----------------------------------------
+Accuracy globale : 13.4% (18/134)

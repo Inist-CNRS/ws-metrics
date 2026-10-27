@@ -1,0 +1,32 @@
+En ajoutant les "Partial match" comme found :
+
+
+Tool : checkIfExist
+
+TOUTES LES RÉFÉRENCES
+Accuracy par classe:
+----------------------------------------
+found               : 61.9% (86/139)
+to_be_verified      : 34.0% (33/97)
+----------------------------------------
+Accuracy globale : 50.4% (119/236)
+
+
+
+AVEC DOI UNIQUEMENT
+Accuracy par classe:
+----------------------------------------
+found               : 83.9% (52/62)
+to_be_verified      : 75.0% (30/40)
+----------------------------------------
+Accuracy globale : 80.4% (82/102)
+
+
+
+SANS DOI UNIQUEMENT
+Accuracy par classe:
+----------------------------------------
+found               : 16.9% (13/77)
+to_be_verified      : 5.3% (3/57)
+----------------------------------------
+Accuracy globale : 11.9% (16/134)
