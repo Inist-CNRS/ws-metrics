@@ -7,7 +7,7 @@ Le PDF généré contient un faux article avec une section References qui repren
 les références telles quelles depuis le champ 'id'.
 
 Usage:
-    python jsonl_to_pdf_simple.py input.jsonl output.pdf
+    python jsonl_to_pdf.py input.jsonl output.pdf
 """
 
 import json

@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-Script simplifié pour convertir un JSONL de références bibliographiques en PDF.
+Script simplifié pour convertir un JSONL de références bibliographiques en txt.
 
 Les références sont déjà formatées dans le champ 'id' du JSONL.
 Le PDF généré contient un faux article avec une section References qui reprend
 les références telles quelles depuis le champ 'id'.
 
 Usage:
-    python jsonl_to_pdf_simple.py input.jsonl output.pdf
+    python jsonl_to_plaintxt.py input.jsonl output.txt
 """
 
 import json
