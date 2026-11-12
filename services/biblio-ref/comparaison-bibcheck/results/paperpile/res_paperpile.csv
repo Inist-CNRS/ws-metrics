@@ -1,0 +1,394 @@
+line_number,first_author,expected_result,has_doi,paperpile_result
+1,John Doe a...,to_be_verified,no,x
+2,John Smith...,to_be_verified,yes,x
+3,Min-Jun Le...,to_be_verified,yes,v
+4,Nuo Lou an...,to_be_verified,no,x
+5,A. Sahoo a...,to_be_verified,no,x
+6,"Asma Issa,...",to_be_verified,no,x
+7,"Yi Tay, Ke...",to_be_verified,no,x
+8,"Alex Wang,...",to_be_verified,no,x
+9,"Lei Yu, Ji...",to_be_verified,no,x
+10,Franz Aich...,to_be_verified,no,x
+11,Maria Glus...,to_be_verified,no,x
+12,Yichao Wan...,to_be_verified,no,x
+13,Mohit Jain...,to_be_verified,no,x
+14,Srinivasan...,to_be_verified,no,x
+15,Zayne Spra...,to_be_verified,no,v
+16,Mario Paol...,to_be_verified,no,x
+17,Mingliang ...,to_be_verified,no,x
+18,Francisco ...,to_be_verified,no,x
+19,Arjun Gupt...,to_be_verified,no,v
+20,Diederik P...,to_be_verified,no,x
+21,Fenglin Di...,to_be_verified,no,x
+22,Humberto A...,to_be_verified,no,v
+23,Majid Zolg...,to_be_verified,no,v
+24,Bernd Kerb...,to_be_verified,no,x
+25,"Uher, R., ...",to_be_verified,no,x
+26,"Ye Gao, Ro...",to_be_verified,no,v
+27,Ioannidis ...,to_be_verified,yes,v
+28,"Neils, Jen...",to_be_verified,no,x
+29,"Honnibal, ...",to_be_verified,no,x
+30,"Kenton, J....",to_be_verified,no,x
+31,"Muller, A....",to_be_verified,no,x
+32,"Li, F., Li...",to_be_verified,no,x
+33,"Liu, P., W...",to_be_verified,no,x
+34,"Stenetorp,...",to_be_verified,no,x
+35,"Tuan, T., ...",to_be_verified,no,x
+36,"Weiss, A.,...",to_be_verified,no,x
+37,"Xie, X., Z...",to_be_verified,no,x
+38,"Yu, T., Zh...",to_be_verified,no,x
+39,"Zhang, R.,...",to_be_verified,no,x
+40,"Zhou, T., ...",to_be_verified,no,x
+41,"Cassen, S....",to_be_verified,no,x
+42,"Hoskin, M....",to_be_verified,no,x
+43,"Ruggles, C...",to_be_verified,no,x
+44,"Tilley, C....",to_be_verified,no,x
+45,"Boardman, ...",to_be_verified,no,x
+46,"Meiggs, Ru...",to_be_verified,no,v
+47,"Betti, R.,...",to_be_verified,no,x
+48,"Bowen, B.,...",to_be_verified,no,x
+49,"Goldstein,...",to_be_verified,no,x
+50,"Hague, P. ...",to_be_verified,no,x
+51,"Lee, D., e...",to_be_verified,no,x
+52,"Marrone, P...",to_be_verified,no,x
+53,"Schmidt, M...",to_be_verified,no,x
+54,"Smith, J. ...",to_be_verified,no,x
+55,Blumenfeld...,to_be_verified,no,x
+56,John Smith...,to_be_verified,no,x
+57,Vrticka et...,to_be_verified,yes,v
+58,Vrtička et...,to_be_verified,yes,v
+59,G. Cabanac...,to_be_verified,yes,x
+60,M. A. Hear...,to_be_verified,yes,v
+61,VAUX DL. S...,to_be_verified,yes,v
+62,Teixeira d...,to_be_verified,yes,v
+63,Oransky I....,to_be_verified,yes,v
+64,"Allison, P...",to_be_verified,no,v
+65,"Bender, R....",to_be_verified,yes,v
+66,"Chen, C. H...",to_be_verified,yes,v
+67,"Patton, M....",to_be_verified,yes,v
+68,"Renfrew, C...",to_be_verified,yes,v
+69,"Hurwit, Je...",to_be_verified,yes,v
+70,Jeffrey M....,to_be_verified,yes,v
+71,"Kleinbaum,...",to_be_verified,yes,v
+72,"Berthet, A...",to_be_verified,no,x
+73,"Scheele, C...",to_be_verified,no,x
+74,"Tilton, J....",to_be_verified,yes,v
+75,Internatio...,to_be_verified,no,x
+76,Sheibani-R...,to_be_verified,yes,v
+77,"O'Connor, ...",to_be_verified,yes,v
+78,"Tanaka H, ...",to_be_verified,yes,v
+79,"Lee JY, Ki...",to_be_verified,yes,v
+80,"Nguyen AD,...",to_be_verified,yes,v
+81,"Aguirre, A...",to_be_verified,yes,v
+82,"Benton, M....",to_be_verified,yes,v
+83,"Darwin, C....",to_be_verified,yes,v
+84,"Doolittle,...",to_be_verified,yes,v
+85,"Eldredge, ...",to_be_verified,yes,v
+86,"Endler, J....",to_be_verified,yes,v
+87,"Gould, S. ...",to_be_verified,yes,v
+88,"Grant, P. ...",to_be_verified,yes,v
+89,"Fleming, T...",to_be_verified,yes,v
+90,"Gauthier, ...",to_be_verified,yes,v
+91,"Hendry, A....",to_be_verified,yes,v
+92,"Kimura, M....",to_be_verified,yes,v
+93,"King, M. C...",to_be_verified,yes,v
+94,Kettlewell...,to_be_verified,yes,v
+95,"Leakey, R....",to_be_verified,yes,v
+96,"Nei, M. (1...",to_be_verified,yes,v
+97,Zuckerkand...,to_be_verified,yes,v
+98,"Kowsigan, ...",retracted,yes,x
+99,"Jiang, Yun...",retracted,yes,x
+100,"Li R, Qiu ...",retracted,yes,v
+101,"Zhao Y, Ya...",retracted,yes,v
+102,"Wang G, Zh...",retracted,yes,v
+103,"Ghali MGZ,...",retracted,yes,v
+104,Abdolmajid...,retracted,yes,v
+105,"Ghaderi A,...",retracted,yes,v
+106,Rangel-Per...,retracted,yes,x
+107,"Gay, S., R...",retracted,yes,v
+108,"Han J, Liu...",retracted,yes,v
+109,Al-Wasify ...,retracted,yes,v
+110,"Shi J, Guo...",retracted,yes,v
+111,"Xiong Y, W...",retracted,yes,v
+112,"Liu X, Wan...",retracted,yes,v
+113,"Ding Y, We...",retracted,yes,v
+114,Zhu M. App...,retracted,yes,v
+115,"Peng Y, Li...",retracted,yes,v
+116,"Khan R, Ku...",retracted,yes,v
+117,"You X, Liu...",retracted,yes,v
+118,Markers D....,retracted,yes,v
+119,"Khan R, Sr...",retracted,yes,v
+120,"Zi H, Tuo ...",retracted,yes,v
+121,Yang Y. Ap...,retracted,yes,v
+122,"An N, Chuo...",retracted,yes,v
+123,"Zhang X, L...",retracted,yes,v
+124,"Li S, Zhu ...",retracted,yes,v
+125,Al-Adhaile...,retracted,yes,v
+126,"Zhang D, T...",retracted,yes,v
+127,"Yao M, Gu ...",retracted,yes,v
+128,Sha Y. A G...,retracted,yes,v
+129,"Chen M, Zh...",retracted,yes,v
+130,"Liu Y, Jia...",retracted,yes,v
+131,"Li C, He A...",retracted,yes,v
+132,"Peng Y, Ta...",retracted,yes,v
+133,"Li K, Fu N...",retracted,yes,v
+134,"Ashraf MA,...",retracted,yes,v
+135,"Wang J, Ma...",retracted,yes,v
+136,"Qidwai T, ...",retracted,yes,v
+137,"Song F, Li...",retracted,yes,v
+138,"Bu P, Yang...",retracted,yes,v
+139,"Song G, Zh...",retracted,yes,v
+140,"Zhang Q, D...",retracted,yes,v
+141,"Zhao, Y., ...",retracted,yes,v
+142,Azarhoosha...,retracted,yes,v
+143,"Zhao J, Ye...",retracted,yes,v
+144,"Dwyer MA, ...",retracted,yes,v
+145,"Shi Q, Wan...",retracted,yes,v
+146,"Fougère B,...",retracted,yes,v
+147,"Ahir, Kunj...",retracted,yes,v
+148,"Nayal, Kir...",retracted,yes,x
+149,Mohammadi ...,retracted,yes,v
+150,"Pławiak, P...",retracted,yes,x
+151,"Liu YP, Ya...",retracted,yes,v
+152,"Yi W, Lan ...",retracted,yes,v
+153,"Sarkar A, ...",retracted,yes,v
+154,"Lu W, Chen...",retracted,yes,v
+155,"Hong S, Ya...",retracted,yes,v
+156,Secukinuma...,retracted,yes,v
+157,"Garner B, ...",retracted,yes,v
+158,Yadav AK. ...,retracted,yes,v
+159,Grau JM. :...,retracted,yes,v
+160,In vivo me...,retracted,yes,v
+161,"Ye S, Liu ...",retracted,yes,v
+162,Estruch R....,retracted,yes,x
+163,retracted ...,retracted,yes,v
+164,retracted ...,retracted,yes,v
+165,retracted ...,retracted,yes,v
+166,The Comple...,retracted,no,x
+167,"Dong Liu, ...",retracted,no,x
+168,Akihisa In...,retracted,no,x
+169,"She Q-B, C...",retracted,no,x
+170,"Wiffen PJ,...",retracted,no,v
+171,"Stewart, E...",retracted,no,v
+172,"Suzawa, M....",retracted,no,v
+173,Scott V. E...,retracted,no,x
+174,P.N. Pushp...,retracted,no,x
+175,Gazibegovi...,retracted,no,x
+176,"Gupta, A.,...",retracted,no,v
+177,"Beisel, C....",retracted,no,v
+178,Jacobson T...,retracted,no,v
+179,"Jewell D, ...",retracted,no,v
+180,Quigley C....,retracted,no,x
+181,Moayyedi P...,retracted,no,v
+182,"Jiao, S., ...",retracted,no,v
+183,"Watanabe, ...",retracted,no,v
+184,"Wang, Z., ...",retracted,no,x
+185,Critchley ...,retracted,no,v
+186,"Weng, Ml.,...",retracted,no,x
+187,JM Geremia...,retracted,no,x
+188,Nnoaham KE...,retracted,no,v
+189,"Vaux, D., ...",retracted,no,v
+190,Hassan Abd...,not_found,no,v
+191,Hamid Ahag...,not_found,no,x
+192,Sébastien ...,not_found,no,x
+193,"Anis Amri,...",not_found,no,x
+194,Slimane Ar...,not_found,no,v
+195,Mustapha A...,not_found,no,v
+196,Hugo Attal...,not_found,no,x
+197,Gilles Aud...,not_found,no,v
+198,Zouhayra A...,not_found,no,v
+199,Maheen Bak...,not_found,no,v
+200,Khadidja W...,not_found,no,v
+201,Djawad Bek...,not_found,no,v
+202,Steve Bell...,not_found,no,x
+203,Cédric Bos...,not_found,no,v
+204,Nathan Le ...,not_found,no,x
+205,Marc Boull...,not_found,no,v
+206,Louenas Bo...,not_found,no,v
+207,Louenas Bo...,not_found,no,v
+208,Nassim Bou...,not_found,no,v
+209,Clotilde B...,not_found,no,v
+210,Pierrick B...,not_found,no,v
+211,Lisa Chabr...,not_found,no,v
+212,Faten Chae...,not_found,no,v
+213,Ilies Chib...,not_found,no,v
+214,Ghinevra C...,not_found,no,v
+215,Michael Co...,not_found,no,v
+216,Thibaut Bo...,not_found,no,v
+217,Thomas Mas...,not_found,no,v
+218,Ismaïl Baa...,not_found,no,v
+219,Louis Béth...,not_found,no,v
+220,Jérôme Bol...,not_found,no,v
+221,Louis Béth...,not_found,no,v
+222,Mathieu Se...,not_found,no,v
+223,Louis Béth...,not_found,no,v
+224,Louis Béth...,not_found,no,v
+225,Louis Béth...,not_found,no,v
+226,Mohamed Ch...,not_found,no,v
+227,Mathieu Se...,not_found,no,v
+228,Jim Radfor...,not_found,no,v
+229,Mathieu Se...,not_found,no,x
+230,Achraf Ben...,not_found,no,x
+231,Louis Béth...,not_found,no,v
+232,Eduardo Hu...,not_found,no,x
+233,Achraf Ben...,not_found,no,x
+234,Eduardo Hu...,not_found,no,x
+235,Gilles Ric...,not_found,no,x
+236,Mathieu Se...,not_found,no,x
+237,Jérôme Bol...,not_found,no,v
+238,Xavier Dau...,not_found,no,v
+239,"Luca Dini,...",not_found,no,x
+240,Michel Dio...,not_found,no,v
+241,Issa Mouss...,not_found,no,v
+242,Michel Dum...,not_found,no,x
+243,Aurélien F...,not_found,no,v
+244,Jacky Akok...,not_found,no,v
+245,Hernán Hum...,not_found,no,v
+246,Selsebil B...,not_found,no,v
+247,Sandro Bim...,not_found,no,x
+248,Thomas Cha...,not_found,no,v
+249,Pascal Cux...,not_found,no,x
+250,Vincent-Na...,not_found,no,x
+251,Jonathan D...,not_found,no,x
+252,Jacques Du...,not_found,no,v
+253,Alexis Guy...,not_found,no,v
+254,Claudia-La...,not_found,no,x
+255,L.K. Bieni...,found,no,x
+256,L.K. Bieni...,found,no,x
+257,"Lässig, M....",found,yes,v
+258,Intermetal...,found,yes,v
+259,Comments o...,found,no,v
+260,Recollecti...,found,no,x
+261,"Corin K, B...",found,yes,v
+262,Min D. Fol...,found,yes,v
+263,"Mooij, W. ...",found,no,x
+264,"Lässig, M....",found,yes,v
+265,Intermetal...,found,no,v
+266,Comments o...,found,no,v
+267,Recollecti...,found,no,x
+268,"Corin K, B...",found,yes,v
+269,Min D. Fol...,found,yes,v
+270,"Mooij, W. ...",found,no,x
+271,Gordji-Nej...,found,yes,v
+272,Aerosol ra...,found,no,v
+273,Aerosol ra...,found,no,v
+274,GALNT6 sup...,found,no,x
+275,GALNT6 sup...,found,no,x
+276,Marko Koet...,found,yes,v
+277,"Gao, J., Z...",found,yes,v
+278,M. Salwicz...,found,no,x
+279,"Kwon, O. H...",found,no,x
+280,"Peng, H. J...",found,no,v
+281,"KRANTZ, Br...",found,no,x
+282,"Jaffe, A. ...",found,no,v
+283,"Paschalis,...",found,yes,v
+284,"Mitsui, T....",found,no,x
+285,"Huang, J.,...",found,no,v
+286,"Gsänger, M...",found,no,v
+287,"Xiao, Z., ...",found,no,v
+288,"Walters, W...",found,yes,v
+289,"Hunter, J....",found,yes,v
+290,"Hart, J. H...",found,yes,v
+291,"Thiault, F...",found,yes,v
+292,"Cuxac, C. ...",found,yes,v
+293,"Cuxac, C. ...",found,yes,v
+294,"Collignon,...",found,yes,v
+295,"Cuxac, C. ...",found,yes,v
+296,"Ariel, M. ...",found,yes,v
+297,Benveniste...,found,yes,v
+298,"Motulsky, ...",found,yes,v
+299,"Yang, F., ...",found,yes,v
+300,"daSilva, E...",found,yes,v
+301,"Honing, H....",found,yes,v
+302,"Folstein, ...",found,yes,v
+303,"Baudoin, M...",found,yes,v
+304,"Tanter, M....",found,yes,v
+305,"Zhang, P.,...",found,yes,v
+306,Rosaria Ci...,found,yes,v
+307,"Agarwal, R...",found,yes,v
+308,"Akter, S.,...",found,yes,v
+309,Balwinder-...,found,yes,v
+310,"Benbi, D. ...",found,yes,v
+311,"Coventry, ...",found,yes,v
+312,"Erenstein,...",found,yes,v
+313,"Erenstein,...",found,yes,v
+314,"Erenstein,...",found,yes,v
+315,"Erenstein,...",found,yes,v
+316,"Jat, M. L....",found,yes,v
+317,"Gupta, R.,...",found,yes,v
+318,"Jat, M. L....",found,yes,v
+319,Jones-Garc...,found,yes,v
+320,"Jose, M., ...",found,yes,v
+321,"Kassam, A....",found,yes,v
+322,"Keil, A., ...",found,yes,v
+323,"Keil, A., ...",found,yes,v
+324,"Keil, A., ...",found,yes,v
+325,"Keil, A., ...",found,yes,v
+326,"Krishna, V...",found,yes,x
+327,"Kuhn, M. (...",found,yes,v
+328,"Kumar, P.,...",found,yes,v
+329,"Barberi, O...",found,yes,v
+330,"Bates, D.,...",found,yes,v
+331,"Blikra, M....",found,yes,v
+332,"Böhme, K.,...",found,yes,v
+333,"Bruhn, A.,...",found,yes,v
+334,Ehling-Sch...,found,yes,v
+335,"Emami, K.,...",found,yes,v
+336,"Gupta, S.,...",found,yes,v
+337,"Horn, S. J...",found,yes,v
+338,"Gaffney, J...",found,yes,v
+339,"Granum, P....",found,no,x
+340,"Jouison, P...",found,no,x
+341,"Lyons, J. ...",found,no,x
+342,"Casey, E. ...",found,no,x
+343,Agricultur...,found,no,x
+344,"Bhargava, ...",found,no,x
+345,GoI (2020)...,found,no,x
+346,CEVA (2019...,found,no,x
+347,"Brown, T.,...",found,no,x
+348,"Li, R., Ka...",found,no,x
+349,"Lundberg, ...",found,no,x
+350,"Radford, A...",found,no,x
+351,"Raffel, C....",found,no,x
+352,"Klimek, Ob...",found,no,x
+353,Tilton & G...,found,no,x
+354,"J.G., B. (...",found,no,x
+355,"Gillespie,...",found,no,x
+356,"Plutynski,...",found,no,x
+357,"Martinez, ...",found,no,x
+358,"Sun, H. (n...",found,no,x
+359,Lanchantin...,found,no,v
+360,"Benton, M....",found,no,v
+361,"Apothéloz,...",found,no,x
+362,"Tsuchiya, ...",found,no,x
+363,"Cox, A. (2...",found,no,v
+364,"Dunbar, R....",found,no,x
+365,"Levinson, ...",found,no,x
+366,"Cuddy, L. ...",found,no,v
+367,"Alston, J....",found,no,v
+368,FAO (2016)...,found,no,x
+369,"Farooq, M....",found,no,v
+370,"Abdollahi,...",found,no,x
+371,"Bauer, C.,...",found,no,v
+372,"Eslami, M....",found,no,x
+373,"Guo, S., Z...",found,no,x
+374,"Hayati, S....",found,no,x
+375,"Hendrawan,...",found,no,x
+376,Kitchenham...,found,no,x
+377,"Lubos, S.,...",found,no,x
+378,"Park, J., ...",found,no,x
+379,Petruzzell...,found,no,x
+380,"Silva, I.,...",found,no,x
+381,"Tintarev, ...",found,no,x
+382,"Babenko, I...",found,no,v
+383,"Behrman, J...",found,no,v
+384,Bellofatto...,found,no,x
+385,"Bénabou, R...",found,no,v
+386,"Blasi, J.,...",found,no,x
+387,"Bowles, S....",found,no,v
+388,"Cohen, L. ...",found,no,v
+389,"Bryson, A....",found,no,v
+390,"Falk, A., ...",found,no,v
+391,"Gneezy, U....",found,no,v
+392,"Hermann, D...",found,no,v
+393,"Peterson, ...",found,no,v

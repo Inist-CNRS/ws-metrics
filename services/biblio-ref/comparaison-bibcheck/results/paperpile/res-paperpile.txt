@@ -1,0 +1,72 @@
+Tool : paperpile (uniquement les found)
+
+
+TOUTES LES RÉFÉRENCES
+Accuracy par classe:
+----------------------------------------
+found               : 63.3% (88/139)
+----------------------------------------
+Accuracy globale : 63.3% (88/139)
+
+
+
+AVEC DOI UNIQUEMENT
+Accuracy par classe:
+----------------------------------------
+found               : 98.4% (61/62)
+----------------------------------------
+Accuracy globale : 98.4% (61/62)
+
+
+
+SANS DOI UNIQUEMENT
+Accuracy par classe:
+----------------------------------------
+found               : 35.1% (27/77)
+----------------------------------------
+Accuracy globale : 35.1% (27/77)
+
+
+
+
+
+
+
+
+
+
+
+Tool : paperpile (not found jugé comme to_be_verified)
+ATTENTION : le mapping opéré ici est fallacieux : il faudrait considéré not_found comme to_be_verified pour tous les autres outils
+
+
+TOUTES LES RÉFÉRENCES
+Accuracy par classe:
+----------------------------------------
+found               : 63.3% (88/139)
+to_be_verified      : 53.6% (52/97)
+----------------------------------------
+Accuracy globale : 59.3% (140/236)
+
+
+
+AVEC DOI UNIQUEMENT
+Accuracy par classe:
+----------------------------------------
+found               : 98.4% (61/62)
+to_be_verified      : 5.0% (2/40)
+----------------------------------------
+Accuracy globale : 61.8% (63/102)
+
+
+
+SANS DOI UNIQUEMENT
+Accuracy par classe:
+----------------------------------------
+found               : 35.1% (27/77)
+to_be_verified      : 87.7% (50/57)
+----------------------------------------
+Accuracy globale : 57.5% (77/134)
+
+
+RES : https://paperpile.com/r/citation-checker/?result=50812146-f8ba-4392-8879-23ae981fc097
