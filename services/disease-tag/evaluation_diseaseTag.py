@@ -150,19 +150,8 @@ def evaluate_ner_model(annotations, predictions):
     
     return precision, recall, f1_score
 
-def ajouter_resultat(nb_lignes, precision, rappel, f1, fichier="resultats.md"):
-    if not os.path.exists(fichier):
-        with open(fichier, "w", encoding="utf-8") as f:
-            f.write("# Résultats des évaluations diseaseTag\n\n")
-            f.write("| Date | Nombre de lignes | Précision | Rappel | F1-score |\n")
-            f.write("|------|-----------------:|----------:|-------:|---------:|\n")
-    with open(fichier, "a", encoding="utf-8") as f:
-        f.write(f"| {date.today().strftime('%d/%m/%Y')} | {nb_lignes} | "
-                f"{precision:.4f} | {rappel:.4f} | {f1:.4f} |\n")
-
 
 # Debut evalutation
-
 annotations_file = 'Europe_PMC_corpus/data/test.conll'
 # Si = True, teste uniquement sur le nombre de PHRASES indiqué dans "number_test".
 # Si test = False, lance le code sur tout le corpus
