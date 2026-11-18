@@ -1,0 +1,34 @@
+Tool : bibcheck-pdf
+
+
+
+TOUTES LES RÉFÉRENCES
+Accuracy par classe:
+----------------------------------------
+found               : 83.5% (116/139)
+retracted           : 95.7% (88/92)
+to_be_verified      : 44.3% (43/97)
+----------------------------------------
+Accuracy globale : 75.3% (247/328)
+
+
+
+AVEC DOI UNIQUEMENT
+Accuracy par classe:
+----------------------------------------
+found               : 96.8% (60/62)
+retracted           : 94.1% (64/68)
+to_be_verified      : 72.5% (29/40)
+----------------------------------------
+Accuracy globale : 90.0% (153/170)
+
+
+
+SANS DOI UNIQUEMENT
+Accuracy par classe:
+----------------------------------------
+found               : 72.7% (56/77)
+retracted           : 100.0% (24/24)
+to_be_verified      : 24.6% (14/57)
+----------------------------------------
+Accuracy globale : 59.5% (94/158)
